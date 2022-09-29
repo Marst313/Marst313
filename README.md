@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marst313
-- 👀 I’m interested in Front End and Game Development
-- 🌱 I’m currently learning C++ , Java, JS
+- 👀 I’m interested in Front End 
+- 🌱 I’m JS
 - 📫 How to reach me @dlegoinyoman1@gmail.com
 
 <!---
