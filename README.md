@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marst313
 - 👀 I’m interested in Front End 
-- 🌱 I’m JS
+- 🌱 I’m currently learning JS
 - 📫 How to reach me @dlegoinyoman1@gmail.com
 
 <!---
