@@ -1,4 +1,4 @@
-![image](https://github.com/Marst313/Marst313/assets/50996212/081527b5-31da-4eb3-ac9c-d89674ce523b)# 👨‍💻 I Nyoman Karma Dharma Nalendra Wardana [@inyoman_dharma]((https://www.instagram.com/inyoman_dharma/))
+# 👨‍💻 I Nyoman Karma Dharma Nalendra Wardana [@inyoman_dharma]((https://www.instagram.com/inyoman_dharma/))
 
 [![GitHub followers](https://img.shields.io/github/followers/Marst313?label=Follow&style=social)](https://github.com/Marst313/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-dlegoinyoman1@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dlegoinyoman1@gmail.com)](mailto:dlegoinyoman1@gmail.com)
