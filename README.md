@@ -64,7 +64,7 @@
       <a>
         <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Mongo Db" />
       </a>
-      <br>My Sql
+      <br>Express Js
 </td>
         
   </tr>
