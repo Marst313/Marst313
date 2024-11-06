@@ -52,8 +52,21 @@
       <a>
         <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo Db" />
       </a>
-      <br>Node Js
+      <br>Mongo Db
     </td>
+<td align="center" width="96">
+      <a>
+        <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" width="48" height="48" alt="Mongo Db" />
+      </a>
+      <br>My Sql
+</td>
+<td align="center" width="96">
+      <a>
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Mongo Db" />
+      </a>
+      <br>My Sql
+</td>
+        
   </tr>
 </table>
 
