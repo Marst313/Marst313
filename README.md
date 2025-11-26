@@ -1,147 +1,169 @@
-# 👨‍💻 I Nyoman Karma Dharma Nalendra Wardana [@inyoman_dharma]((https://www.instagram.com/inyoman_dharma/))
+# 👋 Hi there, I'm Nyoman Karma! 
 
-[![GitHub followers](https://img.shields.io/github/followers/Marst313?label=Follow&style=social)](https://github.com/Marst313/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-dlegoinyoman1@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dlegoinyoman1@gmail.com)](mailto:dlegoinyoman1@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/i-nyoman-karma-dharma-nalendra-wardana/)](https://www.linkedin.com/in/i-nyoman-karma-dharma-nalendra-wardana/)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+Web+Developer;Passionate+Frontend+Developer;JavaScript+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inyoman_dharma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-nyoman-karma-dharma-nalendra-wardana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlegoinyoman1@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Marst313?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marst313/?tab=follow)
 
-:wave: Hello, I'm an Junior Web Developer who is passionate about creating front end apps and design website. I have a strong interest in the javascript programming language and web design, and am committed to continuously learning and innovating in the world of Website development.
+</div>
 
-<h2 align="left" id="macropower-tech">🔥 Favorite Tech</h2>
+---
 
-> Tools, languages, and other things that I like to work with.
+## 🚀 About Me
 
-<table>
-  <tr>
-  <td align="center"  width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-   <td align="center"  width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind Css" />
-      </a>
-      <br>Tailwind Css
-    </td>
-    <td align="center" width="96">
-      <a>
-       <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="48" height="48" alt="React JS" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" width="48" height="48" alt="React redux" />
-      </a>
-      <br>React Redux
-    </td>
- <td align="center" width="96">
-      <a>
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="Node js" />
-      </a>
-      <br>Node Js
-    </td>
- <td align="center" width="96">
-      <a>
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo Db" />
-      </a>
-      <br>Mongo Db
-    </td>
-<td align="center" width="96">
-      <a>
-        <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" width="48" height="48" alt="Mongo Db" />
-      </a>
-      <br>My Sql
-</td>
-<td align="center" width="96">
-      <a>
-        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Mongo Db" />
-      </a>
-      <br>Express Js
-</td>
-        
-  </tr>
-</table>
+```javascript
+const nyoman = {
+    location: "Surakarta, Central Java, Indonesia",
+    role: "Junior Web Developer",
+    passion: ["Frontend Development", "Web Design", "JavaScript"],
+    currentFocus: "Building responsive and user-friendly web applications",
+    learning: ["Advanced React Patterns", "Backend Development", "UI/UX Design"],
+    funFact: "I turn coffee into code ☕️💻"
+};
+```
 
-<h2 align="left" id="macropower-tech">📚 Learning Journey</h2>
+I'm a passionate **Junior Web Developer** specializing in creating beautiful and functional frontend applications. With a strong foundation in JavaScript and modern web technologies, I'm committed to continuous learning and innovation in web development.
 
-> About my learning journey at Udemy.
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marst313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marst313&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marst313&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📚 Learning Journey
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-<!-- BLOG-POST-LIST:START -->
-- [Javascript From Zero To Mastery]()
-
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-<td>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+### 🎓 Completed Courses
+- ✅ JavaScript From Zero To Mastery
+- 🔄 React - The Complete Guide
+- 🔄 Node.js Developer Course
 
 </td>
-<td>
+<td width="50%">
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+### 🎯 Currently Learning
+- 🌟 Advanced React Patterns
+- 🌟 TypeScript
+- 🌟 Next.js Framework
+- 🌟 GraphQL
 
 </td>
 </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">🎯 Top Repositories</h2>
+---
 
-> Tools, languages and other things about my project.
+## 🎯 Featured Projects
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=3776AB&logo=Javascript&logoColor=FFFFFF)|
+<div align="center">
 
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marst313&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/Marst313/YOUR-REPO-NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marst313&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/Marst313/YOUR-REPO-NAME)
 
-<!-- BLOG-POST-LIST:START -->
-<br>
-Thanks for visiting my GitHub profile. Let's connect and collaborate to create great things!
-<!-- BLOG-POST-LIST:END -->
+</div>
 
+---
 
-<div>
-  <br>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marst313&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Nyoman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marst313&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+**📧 Email:** dlegoinyoman1@gmail.com  
+**💼 LinkedIn:** [I Nyoman Karma Dharma Nalendra Wardana](https://www.linkedin.com/in/i-nyoman-karma-dharma-nalendra-wardana/)  
+**📸 Instagram:** [@inyoman_dharma](https://www.instagram.com/inyoman_dharma/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+![Visitor Count](https://profile-counter.glitch.me/Marst313/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
