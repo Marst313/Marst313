@@ -19,15 +19,15 @@
 ```javascript
 const nyoman = {
     location: "Surakarta, Central Java, Indonesia",
-    role: "Junior Web Developer",
-    passion: ["Frontend Development", "Web Design", "JavaScript"],
+    role: "Junior Software Engineer",
+    passion: ["Software Engineer", "Typescript", "Golang", "Database Design"],
     currentFocus: "Building responsive and user-friendly web applications",
     learning: ["Advanced React Patterns", "Backend Development", "UI/UX Design"],
     funFact: "I turn coffee into code ☕️💻"
 };
 ```
 
-I'm a passionate **Junior Web Developer** specializing in creating beautiful and functional frontend applications. With a strong foundation in JavaScript and modern web technologies, I'm committed to continuous learning and innovation in web development.
+I'm a passionate **Junior Software Engineer** specializing in creating beautiful and functional frontend applications. With a strong foundation in JavaScript/Typescript and modern technologies, I'm committed to continuous learning and innovation in software engineer.
 
 ---
 
